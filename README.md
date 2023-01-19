@@ -11,8 +11,8 @@
 
 <div>
   <a href="https://github.com/Artur-Leone">
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=artur-leone&show_icons=true&theme=radical"/>
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=artur-leone&layout=compact&theme=radical"/>
+  <img height="180cm" width="42%" src="https://github-readme-stats.vercel.app/api?username=artur-leone&show_icons=true&theme=radical"/>
+  <img height="180cm" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=artur-leone&layout=compact&theme=radical"/>
 </div>
 
 ##
