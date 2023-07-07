@@ -4,7 +4,6 @@
 
 - 🌱 Atualmente estudando Java
 - 💻 Full-Stack: React, MySQL, Java e Git
-- 🦅 Estou à procura da primeira oportunidade
 - 📫 Contate-me no email: arturleonedev@gmail.com
 
 ##
